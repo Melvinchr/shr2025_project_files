@@ -5,7 +5,8 @@
 ## Sitemap
 ## Pattern Library
 ### Bildspel (Carousel)
-<!-- <div id="carouselExample" class="carousel slide">
+```
+  <div id="carouselExample" class="carousel slide">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="..." class="d-block w-100" alt="...">
@@ -25,18 +26,22 @@
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
-</div> -->
+</div>
+```
 ### Card
-<!-- <div class="card" style="width: 18rem;">
+```
+<div class="card" style="width: 18rem;">
   <img src="..." class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
     <a href="#" class="btn btn-primary">Go somewhere</a>
   </div>
-</div> -->
+</div>
+```
 ### Accordion
-<!-- <div class="accordion" id="accordionExample">
+```
+<div class="accordion" id="accordionExample">
   <div class="accordion-item">
     <h2 class="accordion-header">
       <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
@@ -73,9 +78,11 @@
       </div>
     </div>
   </div>
-</div> -->
+</div>
+```
 ### Dropdown button
-<!-- <div class="dropdown">
+```
+<div class="dropdown">
   <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
     Dropdown button
   </button>
@@ -84,11 +91,15 @@
     <li><a class="dropdown-item" href="#">Another action</a></li>
     <li><a class="dropdown-item" href="#">Something else here</a></li>
   </ul>
-</div> -->
+</div>
+```
 ### Button
-<!-- <button type="button" class="btn">Base class</button> -->
+```
+<button type="button" class="btn">Base class</button>
+```
 ### Breadcrumb
-<!-- <nav aria-label="breadcrumb">
+```
+<nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item active" aria-current="page">Home</li>
   </ol>
@@ -107,4 +118,5 @@
     <li class="breadcrumb-item"><a href="#">Library</a></li>
     <li class="breadcrumb-item active" aria-current="page">Data</li>
   </ol>
-</nav> -->
+</nav>
+```
