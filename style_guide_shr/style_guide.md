@@ -1,5 +1,19 @@
 # Styleguide SHR2025
 ## Color scheme
+### Primary:
+\#0074E8
+### Secondary:
+\#FFDD00
+### White:
+\#F4FAFF
+### Grey 500:
+\#ACB7BF
+### Grey 600:
+\#727E85
+### Grey 700:
+\#374751
+### Black:
+\#142733
 ## Moodboard
 ## Wireframe
 ## Sitemap
