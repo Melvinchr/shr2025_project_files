@@ -1,2 +1,0 @@
-Kopiera certifikaterna och lägg dem i /home/.lando/certs
-
