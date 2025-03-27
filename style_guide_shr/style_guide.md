@@ -16,7 +16,15 @@
 \#142733
 ## Moodboard
 ## Wireframe
+### Wireframe för homepage 
+https://wireframe.cc/WAFjQK  
+### Wireframe generella artiklar 
+https://wireframe.cc/N5kEsp  
 ## Sitemap
+### Sitemap för originalsidan: 
+https://octopus.do/n7hp8m8rder  
+### Sitemap för nya sidan: 
+https://octopus.do/y89kefz0l9
 ## Pattern Library
 ### Bildspel (Carousel)
 ```
