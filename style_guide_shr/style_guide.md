@@ -142,3 +142,18 @@ https://octopus.do/y89kefz0l9
   </ol>
 </nav>
 ```
+## Taxonomy
+Evenemang
+Försäljning
+Händelse
+Häst
+Kalender
+Kontakt
+Policy
+Ridskola
+Ryttare
+Sponsor
+Styrelse
+Styrelsedokument
+Träning
+Tävling
