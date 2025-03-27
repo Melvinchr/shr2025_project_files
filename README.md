@@ -15,7 +15,7 @@ Ett Bootstrap Barrio subtheme för Drupal 11 till Stora Höga Ridklubb
 - Httrack har använts för att göra en kopia av Stora Höga Ridklubbs hemsida
 - Har använt Wireframe.cc för att konstruera en wireframe för vår homepage, ni hittar den i vår styleguide; word-dokumentet.
 - Börjat på en site map för gamla sidan med hjälp av octopus.do
-- Gjort logan
+- Gjort loggan
 
 
 ## Vecka 12
