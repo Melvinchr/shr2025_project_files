@@ -1,0 +1,3 @@
+1. Kolla issues och välj en datamigreringsissue. Kolla instruktionerna som anges för just den delen av sidan.
+2. När du har en uppfattning av vilket material du ska migrera, gå in på drupal för dev-servern, navigera till content och sedan Add content. Kolla [sitemap](/style_guide_shr/style_guide.md) för att se vart ditt material ska flyttas, där ser du också vilken typ av content du behöver lägga till. Behöver du en ny sida? Skapa en basic page. Ska du ha ett block för innehåll på en sida? Skapa en article eller ett evenemang.
+3. Fyll in information såsom titel, länka till bilder, brödtext och lägg på taggar som är relevanta för innehållet (t.ex. evenemang, försäljning, hästar etc).

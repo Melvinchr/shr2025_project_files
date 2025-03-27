@@ -145,15 +145,19 @@ https://octopus.do/y89kefz0l9
 ## Taxonomy
 Evenemang
 Försäljning
-Händelse
-Häst
+Hästar
 Kalender
-Kontakt
-Policy
+  Kontaktuppgifter
 Ridskola
 Ryttare
+  Schema
 Sponsor
-Styrelse
+Styrelsen
 Styrelsedokument
-Träning
-Tävling
+Träningar
+Tävlingar
+
+## Content Types
+Article innehåller: Body, Comments, Image och Tags.
+Basic Page innehåller: Body och Image
+Events innehåller: Datum och länk
