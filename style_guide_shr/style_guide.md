@@ -154,15 +154,10 @@ Ryttare
 Sponsor
 Styrelsen
 Styrelsedokument
-<<<<<<< HEAD
 Träningar
 Tävlingar
-=======
-Träning
-Tävling
 
 ## Content Types
 Article innehåller: Body, Comments, Image och Tags.
 Basic Page innehåller: Body och Image
 Events innehåller: Datum och länk
->>>>>>> feeab329f6062f3f7498bb7437af706e33507a89
