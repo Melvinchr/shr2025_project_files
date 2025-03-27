@@ -19,7 +19,7 @@ Prata by Cyreal
 
 Copyright 2011 by The Prata Project Authors (contact@cyreal.org). All rights reserved. 
 
- <img src ="fonts.png">
+ <img src ="font.png">
 
 --fs-sm: clamp(0.8rem, 0.17vi + 0.76rem, 0.89rem);  
 
