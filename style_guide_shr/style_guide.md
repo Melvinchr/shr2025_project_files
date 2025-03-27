@@ -14,6 +14,24 @@
 \#374751
 ### Black:
 \#142733
+## Fonter
+Prata by Cyreal 
+
+Copyright 2011 by The Prata Project Authors (contact@cyreal.org). All rights reserved. 
+
+ <img src ="../images/font.png">
+
+--fs-sm: clamp(0.8rem, 0.17vi + 0.76rem, 0.89rem);  
+
+--fs-base: clamp(1rem, 0.34vi + 0.91rem, 1.19rem); --fs-md: clamp(1.25rem, 0.61vi + 1.1rem, 1.58rem);  
+
+--fs-lg: clamp(1.56rem, 1vi + 1.31rem, 2.11rem);  
+
+--fs-xl: clamp(1.95rem, 1.56vi + 1.56rem, 2.81rem);  
+
+--fs-xxl: clamp(2.44rem, 2.38vi + 1.85rem, 3.75rem);  
+
+--fs-xxxl: clamp(3.05rem, 3.54vi + 2.17rem, 5rem); 
 ## Moodboard
 ## Wireframe
 ### Wireframe för homepage 
