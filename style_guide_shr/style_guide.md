@@ -152,6 +152,7 @@ Kontakt
 Policy
 Ridskola
 Ryttare
+Schema
 Sponsor
 Styrelse
 Styrelsedokument
