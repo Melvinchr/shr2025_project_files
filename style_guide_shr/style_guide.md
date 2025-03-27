@@ -158,3 +158,8 @@ Styrelse
 Styrelsedokument
 Träning
 Tävling
+
+## Content Types
+Article innehåller: Body, Comments, Image och Tags.
+Basic Page innehåller: Body och Image
+Events innehåller: Datum och länk
