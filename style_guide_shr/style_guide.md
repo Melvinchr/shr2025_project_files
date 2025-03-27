@@ -145,16 +145,14 @@ https://octopus.do/y89kefz0l9
 ## Taxonomy
 Evenemang
 Försäljning
-Händelse
-Häst
+Hästar
 Kalender
-Kontakt
-Policy
+  Kontaktuppgifter
 Ridskola
 Ryttare
-Schema
+  Schema
 Sponsor
-Styrelse
+Styrelsen
 Styrelsedokument
-Träning
-Tävling
+Träningar
+Tävlingar
