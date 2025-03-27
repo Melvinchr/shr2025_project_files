@@ -2,8 +2,28 @@
 Ett Bootstrap Barrio subtheme för Drupal 11 till Stora Höga Ridklubb
 
 # Rapport
-## Vecka 10
--  Alla har fått sina ansvarsområden, vi har bestämt våra översiktliga mål, vi har snackat om färgschema, omstrukturering av navigation.
+
+
+## Vecka 13
+- Skapat tre content types, Article, Basic page och Events, Article innehåller: Body, Comments, Imageoch Tags. Basic Page innehåller: Body och Image Events innehåller: Datum och länk
+- Fixat fungerande Lando/docker/drupal installationer
+- Skapat en datamigrerings HOWTO
+- Ändrat allting i yml filerna från bootrap_barrio_subtheme till shr2025
+- Skapat två konton, ett för redigering av sidan och en baby admin. Respektive kontouppgifterna har blivit skickade säkert till de som behöver det.
+
+
+
+
+
+## Vecka 12
+- Ändrade bootstrap_barrio_subtheme till shr2025 i alla nödvändiga filer
+- Skapat en ny logga
+- Gjort style_guide.md
+- Omstrukturerat, lagt till fler mappar
+- Gjort en mall till lando
+- Merge'at branches
+- Skapat en sitemap för nya sidan
+- Lagt till color-scheme
 
 
 ## Vecka 11
@@ -18,15 +38,6 @@ Ett Bootstrap Barrio subtheme för Drupal 11 till Stora Höga Ridklubb
 - Gjort loggan
 
 
-## Vecka 12
-- Ändrade bootstrap_barrio_subtheme till shr2025 i alla nödvändiga filer
-- Skapat en ny logga
-- Gjort style_guide.md
-- Omstrukturerat, lagt till fler mappar
-- Gjort en mall till lando
-- Merge'at branches
-- Skapat en sitemap för nya sidan
-- Lagt till color-scheme
 
-
-## Vecka 13
+## Vecka 10
+- Alla har fått sina ansvarsområden, vi har bestämt våra översiktliga mål, vi har snackat om färgschema, omstrukturering av navigation.
