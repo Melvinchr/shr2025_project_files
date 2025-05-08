@@ -165,15 +165,16 @@ Evenemang
 Försäljning
 Hästar
 Kalender
-  Kontaktuppgifter
+Kontaktuppgifter
 Ridskola
 Ryttare
-  Schema
 Sponsor
 Styrelsen
 Styrelsedokument
 Träningar
 Tävlingar
+LÄGG TILL Information
+
 
 ## Content Types
 Article innehåller: Body, Comments, Image och Tags.
