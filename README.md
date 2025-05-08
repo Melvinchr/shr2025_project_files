@@ -6,6 +6,18 @@ Ett Bootstrap Barrio subtheme för Drupal 11 till Stora Höga Ridklubb
 
 
 
+
+
+
+
+
+
+
+## Vecka 15
+- Genomfört användartester med ai.
+- Fortsatt fixa lists och patterns, lite problem har uppstått då artiklar har fått fel url
+- Allt innehåll ska finnas på dev-servern. Enskilt innehåll kan behöva läggas i articles. Taggar saknas även.
+
 ## Vecka 14
 - Några undersidor har skapats, såsom förening, Våra hästar.PathAuto har undersökts och delvis implementerats på övriga sidor i Dev-servern (URL ex: /foreningen  /vara-hastar). Hierarkin ska ses över.
 - Planerat datamigrering
