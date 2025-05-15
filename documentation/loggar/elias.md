@@ -1,3 +1,6 @@
+2025-05-08
+Arbetade på befintliga twig-templates för att få de att fungera korrekt.
+
 2025-04-10
 Twig template-filen för indexsidan har skapats, men inte implementerats. Började med att byta loggan på sidan till shr:s egna, men stötte på problem.
 
