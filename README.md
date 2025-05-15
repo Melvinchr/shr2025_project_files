@@ -10,6 +10,10 @@ Ett Bootstrap Barrio subtheme för Drupal 11 till Stora Höga Ridklubb
 
 
 
+## Vecka 19
+- Gjort en template fil till övriga sidor
+- Samlat all nödvändig data för Index sidan
+- Implementerat fonter
 
 
 
