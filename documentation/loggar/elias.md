@@ -1,3 +1,6 @@
+2025-05-15
+Presenterade webbsidan och vår arbetsprocess för resten av klassen.
+
 2025-05-08
 Arbetade på befintliga twig-templates för att få de att fungera korrekt.
 
